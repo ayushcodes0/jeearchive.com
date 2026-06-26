@@ -26,25 +26,25 @@ This repository is private to protect proprietary question-bank infrastructure, 
 ## Screenshots
 
 ### NTA Exam Interface Replica
-<!-- Add screenshot -->
+<img width="1440" height="900" alt="jeearchive-nta-test-interface" src="https://github.com/user-attachments/assets/7f06acea-f16a-42dd-9129-86fcecf31d5f" />
+
+<img width="1440" height="900" alt="jeearchive-nta-test-interface-dark-mode" src="https://github.com/user-attachments/assets/eee30e0f-9a06-405f-a4b6-11f95c0e6834" />
 
 ### Custom Chapterwise Test Interface
-<!-- Add screenshot -->
+
+<img width="1440" height="900" alt="jeearchive-chapterwise-practice-interface" src="https://github.com/user-attachments/assets/928c1419-8c27-4206-94b7-49c4c5b4ea2a" />
+
 
 ### Topic-wise and Chapterwise PYQ Practice
-<!-- Add screenshot -->
+<img width="1440" height="900" alt="jeearchive-chpaterwise-pyq-list" src="https://github.com/user-attachments/assets/cf1a2504-3fe3-4ab1-a519-289538c93a55" />
 
-### Question Navigation Panel
-<!-- Add screenshot -->
-
-### Test Submission and Answer Review
-<!-- Add screenshot -->
 
 ### Performance Analytics Dashboard
-<!-- Add screenshot -->
+<img width="1440" height="900" alt="jeearchive-dashboard" src="https://github.com/user-attachments/assets/aca5eff0-02f9-4974-8c53-4c44181b7574" />
 
 ### Solution Breakdown View
-<!-- Add screenshot -->
+<img width="1440" height="900" alt="jeearchive-solution-interface" src="https://github.com/user-attachments/assets/468ee9fa-dc2f-4850-b875-e8f6dea53161" />
+
 
 ### Mobile View
 <!-- Add screenshot -->
